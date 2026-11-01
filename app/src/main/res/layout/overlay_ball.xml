@@ -9,5 +9,5 @@
         android:layout_height="match_parent"
         android:contentDescription="@null"
         android:scaleType="fitXY"
-        android:src="@drawable/ball_seal" />
+        android:src="@mipmap/ic_launcher_round" />
 </FrameLayout>
